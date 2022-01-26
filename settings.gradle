@@ -1,0 +1,12 @@
+include ':myokhttp'
+include ':myglide'
+include ':myrecyclerview'
+include ':mylist'
+include ':myfragment2'
+include ':mygridlayout'
+include ':mytablelayout'
+include ':myflamelayout'
+include ':mypopupwindow'
+include ':myalertdialog'
+include ':app'
+rootProject.name = "mytoorbar"
